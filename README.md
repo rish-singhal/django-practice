@@ -1,7 +1,7 @@
 # Instructions
 
 ```bash
-$ python3 -m penv <name>
+$ python3 -m venv <name>
 $ source <name>/bin/activate
 $ pip3 install django
 $ django-admin startproject <project_name>
